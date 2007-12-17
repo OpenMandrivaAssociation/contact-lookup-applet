@@ -6,7 +6,6 @@ License: GPL
 Group: Databases
 URL: http://www.burtonini.com/
 Source0: http://www.burtonini.com/computing/%{name}-%{version}.tar.bz2
-BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: evolution-data-server-devel >= 0.0.95
 BuildRequires: libglade2.0-devel
 BuildRequires: libpanel-applet-devel
