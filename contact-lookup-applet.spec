@@ -1,8 +1,8 @@
 Summary: Evolution addressbook search applet
 Name: contact-lookup-applet
 Version: 0.16
-Release: %mkrel 1
-License: GPL
+Release: %mkrel 2
+License: GPLv2+
 Group: Databases
 URL: http://www.burtonini.com/
 Source0: http://www.burtonini.com/computing/%{name}-%{version}.tar.bz2
