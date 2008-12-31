@@ -9,6 +9,7 @@ Source0: http://www.burtonini.com/computing/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: evolution-data-server-devel >= 0.0.95
 BuildRequires: libglade2.0-devel
+BuildRequires: libgnomeui2-devel
 BuildRequires: libpanel-applet-devel
 BuildRequires: automake1.9
 BuildRequires: intltool
