@@ -4,7 +4,7 @@ Version: 0.17
 Release: %mkrel 5
 License: GPLv2+
 Group: Databases
-URL: http://www.burtonini.com/
+URL: https://www.burtonini.com/
 Source0: http://www.burtonini.com/computing/%{name}-%{version}.tar.bz2
 BuildRoot: %{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildRequires: evolution-data-server-devel >= 0.0.95
